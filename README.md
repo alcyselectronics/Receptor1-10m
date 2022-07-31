@@ -12,7 +12,7 @@
     
 <p>A escolha deste receptor é justificada principalmente pelo tamanho da antena necessária para o seu uso.</p>
     
-<p>O estudo e desenvolvimento deste projeto se dará através de pesquisa, análise e montagem de circuitos eletrÔnicos disponíveis em livros, revistas e Internet.
+<p>O estudo e desenvolvimento deste projeto se dará através de pesquisa, análise e montagem de circuitos eletrônicos disponíveis em livros, revistas e Internet.
     Como todo o circuito que trabalha com radiofrequência traz uma complexidade inerente, serão usadas ferramentas e instrumentos de medições para auxiliar na manipulação dos sinais elétricos.</p>
     
 <p>A finalidade deste projeto é a busca e aperfeiçoamento de conhecimentos. Uma placa de circuito impresso será feita com a última versão do circuito desenvolvido.</p>
