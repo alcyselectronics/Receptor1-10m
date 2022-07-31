@@ -1,24 +1,6 @@
 ---
-class: beamer
----
-
----
 
 # Receptor AM - 10 m
-
-{{ post.date_today }}
-
-<style>
-
-.slide { 
-background:url(' ') no-repeat center center fixed;
-background-size: cover;
-}
-
-.slide_type_title {
-backgroud: slategrey;
-}
-</style>
 
 ---
 
@@ -26,14 +8,14 @@ backgroud: slategrey;
 
 ## Descrição
     
-    Este repositório contém informações referentes a confecção de um receptor AM para a faixa de 10 metros.
+<p>Este repositório contém informações referentes a confecção de um receptor AM para a faixa de 10 metros.</p>
     
-    A escolha deste receptor é justificada principalmente pelo tamanho da antena necessária para o seu uso.
+<p>A escolha deste receptor é justificada principalmente pelo tamanho da antena necessária para o seu uso.</p>
     
-    O estudo e desenvolvimento deste projeto se dará através de pesquisa, análise e montagem de circuitos eletrÔnicos disponíveis em livros, revistas e Internet.
-    Como todo o circuito que trabalha com radiofrequência traz uma complexidade inerente, serão usadas ferramentas e instrumentos de medições para auxiliar na manipulação dos sinais elétricos.
+<p>O estudo e desenvolvimento deste projeto se dará através de pesquisa, análise e montagem de circuitos eletrÔnicos disponíveis em livros, revistas e Internet.
+    Como todo o circuito que trabalha com radiofrequência traz uma complexidade inerente, serão usadas ferramentas e instrumentos de medições para auxiliar na manipulação dos sinais elétricos.</p>
     
-    A finalidade deste projeto é a busca e aperfeiçoamento de conhecimentos. Uma placa de circuito impresso será feita com a última versão do circuito desenvolvido. 
+<p>A finalidade deste projeto é a busca e aperfeiçoamento de conhecimentos. Uma placa de circuito impresso será feita com a última versão do circuito desenvolvido.</p>
     
 </div>
 
